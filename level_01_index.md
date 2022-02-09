@@ -15,4 +15,8 @@ This stack leads to faster integrated development Web Application. Angular is Fr
 Flow of Information in MEAN Stack Applications is given each module communicates with the others in order to have a flow of the data from Server/Backend to Client/Frontend.
 ![Mean Stack](./images/MEAN-STACK-TECHNOLOGY.jpeg "Mean Stack").
 
-[a link](https://github.com/user/repo/blob/branch/other_file.md)
+## The training on these platforms given in the below link:
+- [JavaScript](https://github.com/neghani/learnwire/blob/main/level_01_javascript.md)
+- [Typescript](https://github.com/neghani/learnwire/blob/main/level_01_Typescript.md)
+- [Angular](https://github.com/neghani/learnwire/blob/main/level_01_angular.md)
+- [Node](https://github.com/neghani/learnwire/blob/main/level_01_Node.md)
