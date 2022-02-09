@@ -24,6 +24,8 @@
 1. Links
 1. User Forms
 
+Here is a link to lean all about CSS [https://developer.mozilla.org/en-US/docs/Web/HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+
 #### Video
 
 [![Here is the video that covers the assignment](https://img.youtube.com/vi/WRkzvmRD6ic/0.jpg)](https://www.youtube.com/watch?v=WRkzvmRD6ic)
