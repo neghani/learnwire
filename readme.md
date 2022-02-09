@@ -24,21 +24,26 @@
 1. Links
 1. User Forms
 
-Here is a link to lean all about CSS [https://developer.mozilla.org/en-US/docs/Web/HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+
 
 #### Video
 
 [![Here is the video that covers the assignment](https://img.youtube.com/vi/WRkzvmRD6ic/0.jpg)](https://www.youtube.com/watch?v=WRkzvmRD6ic)
 
-Here is a cheat-sheet for All HTML elements [https://html.com](https://html.com/wp-content/uploads/html-cheat-sheet.pdf)
+### Resources
+- Here is a link to lean all about CSS [https://developer.mozilla.org/en-US/docs/Web/HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
-### Basic CSS Topics
+- Here is a cheat-sheet for All HTML elements [https://html.com](https://html.com/wp-content/uploads/html-cheat-sheet.pdf)
+
+### CSS Topics
 
 1. What is CSS
 1. Deferent Selectors
 1. Text styles
 1. CSS layout
 1. Positioning
+
+### Resources
 
 Here is a link to lean all about CSS [https://developer.mozilla.org/en-US/docs/Web/CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
