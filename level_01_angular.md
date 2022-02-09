@@ -1,0 +1,79 @@
+# Angular Topics
+- Lesson 1: Getting Started
+    - About Angular History
+    - SPA
+    - Why Angular
+- Lesson 2: The Building Blocks
+    - Why Modules
+    - Why Components
+    - Basics of MVC
+    - Software development Fundamentals
+- Lesson 3: Angular Project and Overview 
+   - What is CLI
+   - Angular CLI
+   - Create a project
+   - Explain the whole folder structure and package.json
+- Lesson 4: Debugging a website
+    - Why debugging is important
+    - Developer Tools
+- Lesson 5: Component and 3Ds(Directive,Data-binding,DI)
+    - Create a component
+    - Create Directive 
+    - Talk about D.injection 
+- Lesson 6: Sample Project #1 - Components & Data-binding
+    - Create a todo project
+    - Clearly segregate the components
+    - User input and output feature 
+    - finally ask learners to submit a assessment 
+- Lesson 7: Directives Deep Dive
+    - Why directives
+    - Deferent Types of directives
+    - Smaller components
+    - One module per one component rule
+    - Dumb and Logical Components model
+    - Container and component model
+- Lesson 8: Sample Project #1 - Directives
+    - Create employee data base project
+    - Use a JSON file as DB
+    - User all the discussed standards and create a project
+    - Ask leaner to do same and submit
+- Lesson 9: Using Services & Dependency Injection
+    - What is service
+    - what is a singleton service
+    - singleton vs static class
+    - Injectable and Injection
+- Lesson 10: Sample Project #2  - Services & DependencyInjection
+    - Create simple banking app - Just 1 customer UI, 1 bank UI, Just Dr/Cr, Update balance
+    - Build  business logic in services 
+    - Import above services in components and use
+    - Ask leaner to do same and submit
+- Lesson 11: Changing Pages with Routing
+    - Usual Routing basics
+    - Lazy Loading vs Eager Loading 
+- Lesson 12: Sample Project #3  - Routing
+    - Create simple company site about/projects/clients
+    - Lazy load the routes 
+    - Ask leaner to do same and submit
+- Lesson 13: Understanding Observables
+- Lesson 14: Sample Project #4  - Observables
+- Lesson 15: Handling Forms in Angular Apps
+- Lesson 16: Sample Project #5  - Forms
+- Lesson 17: Using Pipes to Transform Output
+- Lesson 18: Making Http Requests
+- Lesson 19: Sample Project #6  - Http
+- Lesson 20: Authentication & Route Protection inAngular
+- Lesson 21: Dynamic Components
+- Lesson 22: Angular Modules & Optimizing Angular Apps
+- Lesson 23: Deploying an Angular App
+    - Build for production 
+    - JIT vs AOT
+    - Junks
+    - Optimization Tops
+    - Using CDN
+    - Deploy App with Netlify.com
+- Lesson 28: A Basic Introduction to Unit Testing in
+    - Need of unit testing
+    - Create a Angular Project with NX/NWRL workspace
+    - JEST : Mock component 
+    - JEST : Spy Services
+    - Custom element schema in unit testing 

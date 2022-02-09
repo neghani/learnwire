@@ -1,0 +1,17 @@
+# Node Topics
+- Section 1: Course Goal
+    - Event Loop
+    - V8 Engine
+    - Node Evolution
+    - We will learn about building web APIs
+- Section 2: Hello World
+    - Install
+    - REPL
+    - Hello world from js file
+- Section 3: Introduction to JavaScript (Just a Recap)
+- Section 4: Node Input & Storing Data
+- Section 4: Asynchronous Programming
+- Section 6: Create A Web Server With Express.js
+- Section 7: Project: Todo REST API
+- Section 8: Working With A MongoDB (and adding it to the Todo API)
+- Section 9: Adding Authentication - Passport.js
