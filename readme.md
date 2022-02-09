@@ -9,7 +9,9 @@
 1. [Week 5](#week-6)
 
 ## Week 1
+
 ### HTML Topics
+
 1. What is HTML
 1. What are Tags and Attributes?
 1. HTML Editors
@@ -22,16 +24,23 @@
 1. Links
 1. User Forms
 
+#### Video
+
+[![Here is the video that covers the assignment](https://img.youtube.com/vi/WRkzvmRD6ic/0.jpg)](https://www.youtube.com/watch?v=WRkzvmRD6ic)
 Here is a cheat-sheet for All HTML elements [https://html.com](https://html.com/wp-content/uploads/html-cheat-sheet.pdf)
+
 ### Basic CSS Topics
-1. What is CSS 
+
+1. What is CSS
 1. Deferent Selectors
 1. Text styles
 1. CSS layout
-1. Positioning 
+1. Positioning
 
 Here is a link to lean all about CSS [https://developer.mozilla.org/en-US/docs/Web/CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
 ### Assignment #1: Building and Hosting a Personal Portfolio Site and Hosting the site online
+
 1. Working with git
    - Got to the website [https://git-scm.com/downloads](https://git-scm.com/downloads), and download git software and install
    - Sing up on [Github](https://www.github.com)
@@ -46,7 +55,9 @@ Here is a link to lean all about CSS [https://developer.mozilla.org/en-US/docs/W
 1. Hosting the site
    - Sing up on [netlify.com](https://www.netlify.com/) with your github.com profile
    - create a site and host you profile website to share to the world
-#### Video 
+
+#### Video
+
 [![Here is the video that covers the assignment](https://img.youtube.com/vi/bCy7qSU8WG0/0.jpg)](https://www.youtube.com/watch?v=bCy7qSU8WG0)
 
 **Topics**
