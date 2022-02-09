@@ -27,6 +27,7 @@
 #### Video
 
 [![Here is the video that covers the assignment](https://img.youtube.com/vi/WRkzvmRD6ic/0.jpg)](https://www.youtube.com/watch?v=WRkzvmRD6ic)
+
 Here is a cheat-sheet for All HTML elements [https://html.com](https://html.com/wp-content/uploads/html-cheat-sheet.pdf)
 
 ### Basic CSS Topics
