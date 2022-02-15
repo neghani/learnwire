@@ -1,11 +1,10 @@
 ### TypeScript
-
-- Lesson 1:Getting familiar with TypeScript
+1. Lesson 1:Getting familiar with TypeScript
     - Why program in TypeScript
     - Typical TypeScript workflows
     - Using the Typescript compiler
     - Getting familiar with Visual Studio Code
-- Lesson 2:Basic and custom types
+1. Lesson 2:Basic and custom types
     - Declaring variables with types
     - Basic type annotations
     - Types in function declarations
@@ -17,8 +16,8 @@
     - Structural vs. nominal type systems
     - Unions of custom types
     - The any and unknown types, and user-defined type guards
-- Lesson 3:A mini project
-- Lesson 4:Object-oriented programming with classes and interfaces
+1. Lesson 3:A mini project
+1. Lesson 4:Object-oriented programming with classes and interfaces
     - Working with classes
     - Getting familiar with class inheritance
     - Access modifiers public, private, protected
@@ -30,7 +29,7 @@
     - Enforcing the contract
     - Extending interfaces
     - Programming to interfaces
-- Lesson 5: Using enums and generics
+1. Lesson 5: Using enums and generics
     - Using enums
     - Numeric enums
     - String enums
@@ -40,4 +39,4 @@
     - Creating your own generic types
     - Creating generic functions
     - Enforcing the return type of higher-order functions
-- Lesson 6: Mini project
+1. Lesson 6: Mini project

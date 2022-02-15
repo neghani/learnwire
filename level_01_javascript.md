@@ -1,11 +1,10 @@
 
-- An introduction
+1. An introduction
     - An Introduction to JavaScript
     - Manuals and specifications
     - Code editors
-    - Developer console
-
-- JavaScript Fundamentals
+    - Developer console (Chrome)
+1.  JavaScript Fundamentals
     - Hello, world!
     - Code structure
     - The modern mode, "use strict"
@@ -24,15 +23,13 @@
     - Function expressions
     - Arrow functions, the basics
     - JavaScript specials
-
-- Code quality
+1.  Code quality
     - Debugging in the browser
     - Coding Style
     - Comments
     - Ninja code
     - Automated testing with Mocha
-    - Polyfills and transpilers
-- Objects: the basics
+    - Polyfills and transpilers1.  Objects: the basics
     - Objects
     - Object references and copying
     - Garbage collection
@@ -41,8 +38,7 @@
     - Optional chaining '?.'
     - Symbol type
     - Object to primitive conversion
-
-- Data types
+1.  Data types
     - Methods of primitives
     - Numbers
     - Strings
@@ -55,8 +51,7 @@
     - Destructuring assignment
     - Date and time
     - JSON methods, toJSON
-
-- Advanced working with functions
+1.  Advanced working with functions
     - Recursion and stack
     - Rest parameters and spread syntax
     - Variable scope, closure
@@ -68,24 +63,21 @@
     - Decorators and forwarding, call/apply
     - Function binding
     - Arrow functions revisited 
-
-- Prototypal inheritance
+1.  Prototypal inheritance
     - F.prototype
     - Native prototypes
     - Prototype methods, objects without "__proto__"
-- Classes
+1.  Classes
     - Class basic syntax
     - Class inheritance
     - Static properties and methods
     - Private and protected properties and methods
-    - Extending built-in classes
-- Promises, async/await
+    - Extending built-in classes1.  Promises, async/await
     - Introduction: callbacks
     - Promise
     - Promises chaining
     - Error handling with promises
     - Promise API
-    - Promisification
-- Error handling
+    - Promisification1.  Error handling
     - Error handling, "try...catch"
     - Custom errors, extending Error

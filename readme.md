@@ -23,15 +23,12 @@
 1. Media
 1. Links
 1. User Forms
-
-
-
-#### Video
+#### HTML Videos
 
 [![Here is the video that covers the assignment](https://img.youtube.com/vi/WRkzvmRD6ic/0.jpg)](https://www.youtube.com/watch?v=WRkzvmRD6ic)
 
 ### Resources
-- Here is a link to lean all about CSS [https://developer.mozilla.org/en-US/docs/Web/HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- Here is a link to lean all about HTML [https://developer.mozilla.org/en-US/docs/Web/HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
 - Here is a cheat-sheet for All HTML elements [https://html.com](https://html.com/wp-content/uploads/html-cheat-sheet.pdf)
 
@@ -80,7 +77,7 @@ Here is a link to lean all about CSS [https://developer.mozilla.org/en-US/docs/W
 
 ## Week 2 - WIP
 
-### Building and Hosting a Personal Portfolio Site and Hosting the site online
+### Guessing Game
 
 1. Got to the website [https://git-scm.com/downloads](https://git-scm.com/downloads), and download git software and install
 1. Sing up on [Github](https://www.github.com) and create a repo and clone to local
@@ -89,6 +86,8 @@ Here is a link to lean all about CSS [https://developer.mozilla.org/en-US/docs/W
 1. Build your profile template
 1. Sing up on [netlify.com](https://www.netlify.com/) with your github.com profile
 1. create a site and host you profile website to share to the world
+
+``` const prompt = require('prompt-sync')({sigint: true}); // Random number from 1 - 10 ```
 
 **Topics**
 
