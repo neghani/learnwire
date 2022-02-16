@@ -11,7 +11,6 @@
 1. Section 3: Introduction to JavaScript (Just a Recap)
     - Repeat the JS Fundamentals
 1. Section 4: Node Input & Storing Data
-    - 
 1. Section 4: Asynchronous Programming
 1. Section 6: Create A Web Server With Express.js
 1. Section 7: Project: Todo REST API
