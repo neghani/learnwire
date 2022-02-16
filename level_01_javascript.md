@@ -1,3 +1,21 @@
+# JavaScript Topics
+
+| Topics                    | Day #    | Trainer |
+|---------------------------|----------|---------|
+| An introduction            |    1     |Trainer#1|
+| JavaScript Fundamentals    |    1     |Trainer#1|
+| Code quality               |    1     |Trainer#1|
+| Objects: the basics        |    1     |Trainer#1|
+| Data types                 |    2     |Trainer#1|
+| Working with functions     |    2     |Trainer#1|
+| Prototypal inheritance     |    1     |Trainer#1|
+| Classes                    |    2     |Trainer#1|
+| Promises, async/await      |    1     |Trainer#1|
+| Error handling             |    1     |Trainer#1|
+| Working DOM                |    2     |Trainer#1|
+|             Total sessions |    15    |         |
+
+
 
 1. An introduction
     - An Introduction to JavaScript

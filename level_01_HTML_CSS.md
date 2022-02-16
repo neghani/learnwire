@@ -1,5 +1,23 @@
 # Advanced HTML and CSS Topics
 
+| Topics                    | Day #    | Trainer |
+|---------------------------|----------|---------|
+| HTML Sematic              |    1     |Trainer#1|
+| Multimedia and embedding  |    1     |Trainer#1|
+| HTML table                |    1     |Trainer#1|
+| HTML Forms                |    1     |Trainer#1|
+| CSS Fundamentals          |    1     |Trainer#1|
+| CSS Background            |    1     |Trainer#1|
+| CSS Border                |    1     |Trainer#1|
+| CSS Text Formatting       |    1     |Trainer#1|
+| CSS Box Model             |    1     |Trainer#1|
+| CSS Responsive Design     |    2     |Trainer#1|
+| CSS A Few Advanced Topics |    2     |Trainer#1|
+|             Total sessions|    13    |         |
+
+
+## Table of contents
+
 1. HTML Sematic
     - article
     - aside
@@ -113,4 +131,3 @@
     - 3D Transforms
     - Position property
     - Object-fit Property
-        User Interface

@@ -14,12 +14,18 @@ MEAN Stack is one of the most popular Technology Stack. It is used to develop a 
 
 In this course we are focusing on learning MEAN stack.
 ## The training on these platforms given in the below link:
-- [Advanced HTML and CSS](https://github.com/neghani/learnwire/blob/main/level_01_HTML_CSS.md)
-- [Advanced JavaScript](https://github.com/neghani/learnwire/blob/main/level_01_javascript.md)
-- [Typescript](https://github.com/neghani/learnwire/blob/main/level_01_Typescript.md)
-- [Angular](https://github.com/neghani/learnwire/blob/main/level_01_angular.md)
-- [Node and Express.js](https://github.com/neghani/learnwire/blob/main/level_01_Node.md)
-- [Databases (MYSQL/Mongo)](https://github.com/neghani/learnwire/blob/main/level_01_databases.md)
-- [Application Optimizations ](https://github.com/neghani/learnwire/blob/main/level_01_optimisations.md)
-- [Fundamentals of Docker(Container)](https://github.com/neghani/learnwire/blob/main/level_01_docker.md)
-- [Agile Framework](https://github.com/neghani/learnwire/blob/main/level_01_Agile.md)
+- [Advanced HTML and CSS](https://github.com/neghani/learnwire/blob/main/level_01_HTML_CSS.md) - Approx. 13 Sessions 
+- [Advanced JavaScript](https://github.com/neghani/learnwire/blob/main/level_01_javascript.md) - Approx. 15 Sessions 
+- [Typescript](https://github.com/neghani/learnwire/blob/main/level_01_Typescript.md) - Approx. 8 Sessions 
+- [Angular](https://github.com/neghani/learnwire/blob/main/level_01_angular.md) -  Approx. 18 Sessions
+- [Node and Express.js](https://github.com/neghani/learnwire/blob/main/level_01_Node.md) -  Approx. 12 Sessions
+- [Databases (MYSQL/Mongo)](https://github.com/neghani/learnwire/blob/main/level_01_databases.md) - Approx. 8 Sessions
+- [Application Optimizations ](https://github.com/neghani/learnwire/blob/main/level_01_optimisations.md) - Approx. 2 Sessions
+- [Fundamentals of Docker(Container)](https://github.com/neghani/learnwire/blob/main/level_01_docker.md) - Approx. 3 Sessions
+- [Agile Framework](https://github.com/neghani/learnwire/blob/main/level_01_Agile.md) - Approx. 3 Sessions
+
+## Course outline
+ - Approx. 90 sessions 
+ - 32 Mini Projects 
+ - Online personal support
+ - 4 Months Duration 
