@@ -1,4 +1,9 @@
 # Level One - MEAN Stack
+The selected candidates from level zero training will be going through Level One course, this course is designed to transform the candidates in to professional JavaScript Fullstack developers.
+
+**What is a  JavaScript Fullstack developer?**
+There many aspects of application/software development such User Interface, Data Storing, Data Control, a developer who can work with all the above mentioned aspects is called a Fullstack developer, A Fullstack not necessarily be master in all the aspects, he/she can be master of one aspect and jack of rest.
+
 MEAN Stack is one of the most popular Technology Stack. It is used to develop a Full Stack Web Application. Although it is a Stack of different technologies, all of these are based on JavaScript language.
 
 **MEAN Stands for:**
@@ -6,6 +11,8 @@ MEAN Stack is one of the most popular Technology Stack. It is used to develop a 
 - E – Express
 - A – Angular
 - N – Node.js
+
+In this course we are focusing on learning MEAN stack.
 ## The training on these platforms given in the below link:
 - [Advanced HTML and CSS](https://github.com/neghani/learnwire/blob/main/level_01_HTML_CSS.md)
 - [Advanced JavaScript](https://github.com/neghani/learnwire/blob/main/level_01_javascript.md)
@@ -15,3 +22,4 @@ MEAN Stack is one of the most popular Technology Stack. It is used to develop a 
 - [Databases (MYSQL/Mongo)](https://github.com/neghani/learnwire/blob/main/level_01_databases.md)
 - [Application Optimizations ](https://github.com/neghani/learnwire/blob/main/level_01_optimisations.md)
 - [Fundamentals of Docker(Container)](https://github.com/neghani/learnwire/blob/main/level_01_docker.md)
+- [Agile Framework](https://github.com/neghani/learnwire/blob/main/level_01_Agile.md)

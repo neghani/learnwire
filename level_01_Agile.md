@@ -1,0 +1,32 @@
+# Agile Topics
+- Understanding Agile
+- Scrum : Overview, Values, and Roles
+    - Scrum Overview
+    - Scrum Values
+    - The Concept of Sprints
+    - Scrum Roles Overview
+    - Role of a Scrum Master
+    - Role of a Product Owner
+    - Role of a Development Team
+- Scrum: Scrum Ceremonies and Events
+    - Daily Stand-Up Meeting
+    - Sprint Planning Meeting
+    - Sprint Review Meeting
+    - Sprint Retrospective
+    - Backlog Refinement
+- Scrum: Scrum Terms and Artifacts
+    - User Stories
+    - User Stories: Acceptance Criteria
+    - Writing Great User Stories
+    - User Story Examples
+    - Product Backlog and Sprint Backlog
+    - Working Agreements
+    - Definition of Ready
+    - Definition of Done
+    - Casual Conversation about Definition of Ready and Definition of Done
+    - Product Increment
+- Estimating in Agile
+    - Introduction to Estimating
+    - Estimating in Agile
+    - Estimating in Agile: Why Estimate?
+    - Estimating in Agile: Estimation Techniques (Part 1 of 2)
