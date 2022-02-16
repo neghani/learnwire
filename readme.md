@@ -103,7 +103,10 @@ Here is a link to lean all about CSS [https://developer.mozilla.org/en-US/docs/W
 - Array methods
 - Objects
 
-{A demo video of covering the topics above  will be placed here}
+[![Fundamentals of JS](https://img.youtube.com/vi/cGI8tri41C4/0.jpg)](https://www.youtube.com/watch?v=cGI8tri41C4)
+[![Fundamentals of JS](https://img.youtube.com/vi/ncgsge1l1RQ/0.jpg)](https://www.youtube.com/watch?v=ncgsge1l1RQ)
+[![Fundamentals of JS](https://img.youtube.com/vi/DjHoTRUC3DE/0.jpg)](https://www.youtube.com/watch?v=DjHoTRUC3DE)
+[![Fundamentals of JS](https://img.youtube.com/vi/Tgy72di-6C8/0.jpg)](https://www.youtube.com/watch?v=Tgy72di-6C8)
 
 ### Assignment #2: Build a Simple Banking System with Vanilla JS
 1. In Week #1 assignment we create a repo, in the root of the same repo create another folder called `Week-2-assignment`
