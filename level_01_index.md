@@ -7,7 +7,11 @@ MEAN Stack is one of the most popular Technology Stack. It is used to develop a 
 - A – Angular
 - N – Node.js
 ## The training on these platforms given in the below link:
-- [JavaScript](https://github.com/neghani/learnwire/blob/main/level_01_javascript.md)
+- [Advanced HTML and CSS](https://github.com/neghani/learnwire/blob/main/level_01_HTML_CSS.md)
+- [Advanced JavaScript](https://github.com/neghani/learnwire/blob/main/level_01_javascript.md)
 - [Typescript](https://github.com/neghani/learnwire/blob/main/level_01_Typescript.md)
 - [Angular](https://github.com/neghani/learnwire/blob/main/level_01_angular.md)
-- [Node](https://github.com/neghani/learnwire/blob/main/level_01_Node.md)
+- [Node and Express.js](https://github.com/neghani/learnwire/blob/main/level_01_Node.md)
+- [Databases (MYSQL/Mongo)](https://github.com/neghani/learnwire/blob/main/level_01_databases.md)
+- [Application Optimizations ](https://github.com/neghani/learnwire/blob/main/level_01_optimisations.md)
+- [Fundamentals of Docker(Container)](https://github.com/neghani/learnwire/blob/main/level_01_docker.md)

@@ -1,11 +1,16 @@
 # Level Zero
 
+Please go through the content below to understand the basic of HTML,CSS and Javascript, also there are few assignment videos to go through as well, please follow the instruction in the videos and create you 4 mini projects and submit them along with the application for Level One training.
+
+Below content is free and don't worry you are not alone in the journey if you need help or stuck please join the [Discord Channel](https://discord.gg/vWRKPBDs) ping us with your query, we will respond ASAP.
+
 **Training Calendar**
 
 1. [Week 1](#week-1)
 1. [Week 2](#week-2)
 1. [Week 3](#week-3)
 1. [Week 4](#week-4)
+1. [How to apply for Level One](#How-to-apply-for-Level-One)
 
 ## Week 1
 
@@ -49,6 +54,7 @@ Here is a link to lean all about CSS [https://developer.mozilla.org/en-US/docs/W
 
 ### Assignment #1: Building and Hosting a Personal Portfolio Site and Hosting the site online
 
+**Topics**
 1. Working with git
    - Got to the website [https://git-scm.com/downloads](https://git-scm.com/downloads), and download git software and install
    - Sing up on [Github](https://www.github.com)
@@ -64,19 +70,10 @@ Here is a link to lean all about CSS [https://developer.mozilla.org/en-US/docs/W
    - Sing up on [netlify.com](https://www.netlify.com/) with your github.com profile
    - create a site and host you profile website to share to the world
 
-#### Video
+### Video
+#### All you have to do is to watch the video and recreate the assignment with your content and thoughts 
 
 [![Here is the video that covers the assignment](https://img.youtube.com/vi/bCy7qSU8WG0/0.jpg)](https://www.youtube.com/watch?v=bCy7qSU8WG0)
-
-**Topics**
-
-- Version control system
-- Work with git-cli
-- A repository
-- Structure the HTML elements
-- HTML elements
-- CSS Box Model
-- Host you first app on a server/site
 
 ## Week 2 
 ### JavaScript
@@ -148,3 +145,9 @@ Here is a link to lean all about CSS [https://developer.mozilla.org/en-US/docs/W
    1. Store the app in a cloud repo
 
 {A demo video of the assignment will be placed here}
+
+## How to apply for Level One
+
+1. Keep link for the assignments for submission 
+1. Click the link here for the submission form (Google Form need to create)
+1. You're work is done we will contact you
