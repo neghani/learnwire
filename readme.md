@@ -23,11 +23,13 @@
 1. Media
 1. Links
 1. User Forms
+
 #### HTML Videos
 
-[![Here is the video that covers the assignment](https://img.youtube.com/vi/WRkzvmRD6ic/0.jpg)](https://www.youtube.com/watch?v=WRkzvmRD6ic)
+[![Here is the video that covers Fundamentals of HTML](https://img.youtube.com/vi/WRkzvmRD6ic/0.jpg)](https://www.youtube.com/watch?v=WRkzvmRD6ic)
 
 ### Resources
+
 - Here is a link to lean all about HTML [https://developer.mozilla.org/en-US/docs/Web/HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
 - Here is a cheat-sheet for All HTML elements [https://html.com](https://html.com/wp-content/uploads/html-cheat-sheet.pdf)
@@ -39,6 +41,8 @@
 1. Text styles
 1. CSS layout
 1. Positioning
+
+[![Here is the video that covers Fundamentals of CSS](https://img.youtube.com/vi/OUF52XoNUn8/0.jpg)](https://www.youtube.com/watch?v=OUF52XoNUn8)
 
 ### Resources
 
@@ -75,52 +79,43 @@ Here is a link to lean all about CSS [https://developer.mozilla.org/en-US/docs/W
 - CSS Box Model
 - Host you first app on a server/site
 
-## Week 2 - WIP
-
-### Guessing Game
-
-1. Got to the website [https://git-scm.com/downloads](https://git-scm.com/downloads), and download git software and install
-1. Sing up on [Github](https://www.github.com) and create a repo and clone to local
-1. Prepare your resume in word/text format
-1. Select your best picture to place on profile page
-1. Build your profile template
-1. Sing up on [netlify.com](https://www.netlify.com/) with your github.com profile
-1. create a site and host you profile website to share to the world
-
-``` const prompt = require('prompt-sync')({sigint: true}); // Random number from 1 - 10 ```
+## Week 2 
+### JavaScript
 
 **Topics**
+- Hello, world!
+- Code structure
+- The modern mode, "use strict"
+- Variables
+- Data types
+- Interaction: alert, prompt, confirm
+- Type Conversions
+- Basic operators, maths
+- Comparisons
+- Conditional branching: if, '?'
+- Logical operators
+- Nullish coalescing operator '??'
+- Loops: while and for
+- The "switch" statement
+- Functions
+- Function expressions
+- Arrow functions, the basics
+- Arrays
+- Array methods
+- Objects
 
-- Version control system
-- Work with git-cli
-- A repository
-- Structure the HTML elements
-- HTML elements
-- CSS Box Model
-- CSS Flex Model
-- CSS Grid System
+{A demo video of covering the topics above  will be placed here}
 
-## Week 3 - WIP
-
-### Build a Simple Banking System with Vanilla JS
-
-1. In Week #1 assignment we create a repo, in the root of the same repo create another folder called `Week-3-assignment`
+### Assignment #2: Build a Simple Banking System with Vanilla JS
+1. In Week #1 assignment we create a repo, in the root of the same repo create another folder called `Week-2-assignment`
 1. Build a Simple Banking System with Vanilla JS in the folder
 1. Link update you portfolio page with a link to that subfolder you created
 1. Push the changes to the remote repo
 1. Verify if the remote app is updated with new links
 
-**Topics**
+{A demo video of the assignment will be placed here}
 
-- Fundamentals of JavaScript
-  - what
-- What is DOM/BOM
-- Manipulate HTML Element with JavaScript
-- Work with information
-- What is an application
-
-## Week 4 - WIP
-
+## Week 3 
 ### Build a Simple Calculator app with Vanilla JS
 
 1. In Week #1 assignment we create a repo, in the root of the same repo create another folder called `Week-4-assignment`
@@ -132,14 +127,9 @@ Here is a link to lean all about CSS [https://developer.mozilla.org/en-US/docs/W
 1. Push the changes to the remote repo
 1. Verify if the remote app is updated with new links
 
-**Topics**
+{A demo video of the assignment will be placed here}
 
-- Fundamentals of JavaScript
-- Parameter functions
-- Work with information
--
-
-## Week 5 - WIP
+## Week 4
 
 ### Build Rock, Paper and Scissor game with Vanilla JS
 
@@ -148,11 +138,11 @@ Here is a link to lean all about CSS [https://developer.mozilla.org/en-US/docs/W
 1. Link update you portfolio page with a link to that subfolder you created
 1. Push the changes to the remote repo
 1. Verify if the remote app is updated with new links
-
-## Week 6 - WIP
-
+{A demo video of the assignment will be placed here}
+## Week 5
 ### Build Your first CLI-App
+   1. Know how to work with CLIs
+   1. Build you first CLI-App to wish the users visited you app
+   1. Store the app in a cloud repo
 
-1. Know how to work with CLIs
-1. Build you first CLI-App to wish the users visited you app
-1. Store the app in a cloud repo
+{A demo video of the assignment will be placed here}

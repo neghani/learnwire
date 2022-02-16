@@ -22,7 +22,6 @@
     - Functions
     - Function expressions
     - Arrow functions, the basics
-    - JavaScript specials
 1.  Code quality
     - Debugging in the browser
     - Coding Style
