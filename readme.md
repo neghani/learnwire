@@ -1,11 +1,12 @@
 # Level - Basic
 
-> Must Read
-
-- This is a free course, and duration of this course is 4 weeks. This course covers some fundamental topics in the world of web development.
-- Please go through the content below to understand the basic of HTML,CSS and Javascript, also there are some resource links provided to learn more about the topics.
+- This is a free course, and duration of this course is 4 weeks. 
+- This course covers some fundamental topics in the world of web development.
+- Please go through the content below to understand the basic of HTML,CSS and Javascript, also there are some links provided to learn more about the topics.
 - We encourage you learn the topics from other sources if you find any interesting ones
-- Each week you are expected to complete a assignment the details are in the week wise content below
+- Each week you are expected to complete an assignment,  the details are in the week wise content below
+- You do't have to do the assignments the right way, but do complete them in your way
+- Do the assignments all by yourself, help yourself by following this rule
 - You are not alone in the journey, please join the [Discord Channel](https://discord.gg/vWRKPBDs). If you need any help, ping us with your query, we will respond ASAP.
 
 > Course Goals
@@ -16,11 +17,16 @@
 > Your Goals
 
 - Please follow the instruction in the videos/topics and practice
-- Create you 4 mini projects as described below
-- Submit the application for "Level - Advanced"
+- Create 4 mini projects as described below
+- Submit the application for "Advanced Level" training
 
+> What happens after you submit?
+- We will receive you information and your assignments link 
+- We will review your assignment (git/deployments), if you have completed all the assignment we will proceed further if not completed your application most likely be not considered 
+- We will interview all the selected candidates  (online/in-person) for advanced level training 
+- Finally selected candidates will receive the confirmation for advanced level training
 
-**Training Calendar**
+# Training Calendar
 
 1. [Week 1](#week-1)
 1. [Week 2](#week-2)
@@ -28,7 +34,7 @@
 1. [Week 4](#week-4)
 1. [How to apply for Level - Advanced](#How-to-apply-for-Level-One)
 
-## Week 1
+# Week 1
 
 ### HTML Topics
 
@@ -93,7 +99,7 @@ Here is a link to lean all about CSS [https://developer.mozilla.org/en-US/docs/W
 
 [![Here is the video that covers the assignment](https://img.youtube.com/vi/bCy7qSU8WG0/0.jpg)](https://www.youtube.com/watch?v=bCy7qSU8WG0)
 
-## Week 2
+# Week 2
 
 ### JavaScript
 
@@ -139,7 +145,7 @@ Here is a link to lean all about CSS [https://developer.mozilla.org/en-US/docs/W
 
 {A demo video of the assignment will be placed here}
 
-## Week 3
+# Week 3
 
 ### Build a Simple Calculator app with Vanilla JS
 
@@ -154,7 +160,7 @@ Here is a link to lean all about CSS [https://developer.mozilla.org/en-US/docs/W
 
 {A demo video of the assignment will be placed here}
 
-## Week 4
+# Week 4
 
 ### Build Rock, Paper and Scissor game with Vanilla JS
 
