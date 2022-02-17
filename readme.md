@@ -6,7 +6,7 @@
 - Please go through the content below to understand the basic of HTML,CSS and Javascript, also there are some resource links provided to learn more about the topics.
 - We encourage you learn the topics from other sources if you find any interesting ones
 - Each week you are expected to complete a assignment the details are in the week wise content below
-- You are not alone in the journey, please join the [Discord Channel](https://discord.gg/vWRKPBDs). If you need any help or you stuck ping us with your query, we will respond ASAP.
+- You are not alone in the journey, please join the [Discord Channel](https://discord.gg/vWRKPBDs). If you need any help, ping us with your query, we will respond ASAP.
 
 > Course Goals
 
@@ -124,6 +124,10 @@ Here is a link to lean all about CSS [https://developer.mozilla.org/en-US/docs/W
 [![Fundamentals of JS](https://img.youtube.com/vi/ncgsge1l1RQ/0.jpg)](https://www.youtube.com/watch?v=ncgsge1l1RQ)
 [![Fundamentals of JS](https://img.youtube.com/vi/DjHoTRUC3DE/0.jpg)](https://www.youtube.com/watch?v=DjHoTRUC3DE)
 [![Fundamentals of JS](https://img.youtube.com/vi/Tgy72di-6C8/0.jpg)](https://www.youtube.com/watch?v=Tgy72di-6C8)
+
+### Resources 
+
+- [Learn Javascript - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
 
 ### Assignment #2: Build a Simple Banking System with Vanilla JS
 
