@@ -1,30 +1,30 @@
 # Level - Basic
 
-- This is a free course, and duration of this course is 4 weeks. 
+
+- The basic level course is for free, and the duration of this course is four weeks.
 - This course covers some fundamental topics in the world of web development.
-- Please go through the content below to understand the basic of HTML,CSS and Javascript, also there are some links provided to learn more about the topics.
-- We encourage you learn the topics from other sources if you find any interesting ones
-- Each week you are expected to complete an assignment,  the details are in the week wise content below
-- You do't have to do the assignments the right way, but do complete them in your way
-- Do the assignments all by yourself, help yourself by following this rule
-- You are not alone in the journey, please join the [Discord Channel](https://discord.gg/vWRKPBDs). If you need any help, ping us with your query, we will respond ASAP.
+- Please go through the content below and,  Learn the basics of HTML, CSS, and Javascript. There are a few links provided to learn more about the topics.
+- We encourage you to learn the topics from other sources if you find any interesting.
+- Each week you are expected to complete an assignment. These assignments are listed below.
+- Do the assignments all by yourself. Help yourself by following this one rule.
+- You are not alone in the journey. Join us via the [Discord Channel](https://discord.gg/vWRKPBDs). If you need any help, ping us with your query, we will respond ASAP.
 
 > Course Goals
 
 - The goal of the course is to kick-start your self-learning process
-- Familiarize you with the tools and development workflows
+- Familiarize yourself with the tools and development workflows
 
 > Your Goals
 
 - Please follow the instruction in the videos/topics and practice
-- Create 4 mini projects as described below
-- Submit the application for "Advanced Level" training
+- Create four mini-projects as described below
+- Apply "Advanced Level" training
 
 > What happens after you submit?
-- We will receive you information and your assignments link 
-- We will review your assignment (git/deployments), if you have completed all the assignment we will proceed further if not completed your application most likely be not considered 
-- We will interview all the selected candidates  (online/in-person) for advanced level training 
-- Finally selected candidates will receive the confirmation for advanced level training
+- We will receive your information and your assignments links.
+- We will review your assignment (git/deployments). If you have completed all of the assignments, we will proceed further. If not, your application most likely stands not considered.
+- We will interview all the selected candidates (online/in-person) for advanced-level training.
+- Finally, selected candidates will receive confirmation for advanced-level training.
 
 # Training Calendar
 
@@ -149,14 +149,14 @@ Here is a link to lean all about CSS [https://developer.mozilla.org/en-US/docs/W
 
 ### Build a Simple Calculator app with Vanilla JS
 
-1. In Week #1 assignment we create a repo, in the root of the same repo create another folder called `Week-4-assignment`
+1. In Week #1 assignment, we create a repo, in the root of the same repo create another folder called `Week-4-assignment`
 1. Build a Simple Calculator app with Vanilla JS in the folder
-   - App that will consist of two text fields to take inputs from user
-   - 4 button that will perform the specific calculation
+   - An App that will consist of two text fields to take inputs from the user
+   - Four button that will perform the specific calculation
    - Result pan for the calculated value to appear
-1. Link update you portfolio page with a link to that subfolder you created
+1. Link update your portfolio page with a link to that subfolder you created
 1. Push the changes to the remote repo
-1. Verify if the remote app is updated with new links
+1. Verify whether the remote app is updated with new links
 
 {A demo video of the assignment will be placed here}
 
@@ -164,9 +164,9 @@ Here is a link to lean all about CSS [https://developer.mozilla.org/en-US/docs/W
 
 ### Build Rock, Paper and Scissor game with Vanilla JS
 
-1. In Week #1 assignment we create a repo, in the root of the same repo create another folder called `Week-5-assignment`
-1. Build Rock,Paper and Scissor game with Vanilla JS in the folder
-1. Link update you portfolio page with a link to that subfolder you created
+1. In Week #1 assignment, we create a repo, in the root of the same repo create another folder called `Week-5-assignment`.
+1. Build Rock, Paper, and Scissor game with Vanilla JS in the folder
+1. Link update your portfolio page with a link to that subfolder you created
 1. Push the changes to the remote repo
 1. Verify if the remote app is updated with new links
    {A demo video of the assignment will be placed here}
@@ -183,6 +183,6 @@ Here is a link to lean all about CSS [https://developer.mozilla.org/en-US/docs/W
 
 ## How to apply for Level - Advanced
 
-1. Keep link for the assignments for submission
+1. Keep links for the assignments for submission
 1. Click the link here for the submission form (Google Form need to create)
-1. You're work is done we will contact you
+1. Your work is done, we will contact you
