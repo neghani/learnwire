@@ -15,7 +15,10 @@
 | Working DOM                |    2     |Trainer#1|
 |             Total sessions |    15    |         |
 
+Knowledge Map:
 
+![JS](./images/FL8TmNCUYAI1Z4p.jpeg)
+[source](https://learnjavascript.online/knowledge-map.html)
 
 1. An introduction
     - An Introduction to JavaScript

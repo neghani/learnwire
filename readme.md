@@ -1,11 +1,10 @@
-# Level - Basic
+# Level - Foundation
 
-
-- The basic level course is for free, and the duration of this course is four weeks.
+- The basic level course is for free, and there is duration/time limit for this course but you need keep mind the admin window for advanced level training.
 - This course covers some fundamental topics in the world of web development.
-- Please go through the content below and,  Learn the basics of HTML, CSS, and Javascript. There are a few links provided to learn more about the topics.
+- Please go through the content below and, Learn the basics of HTML, CSS, and Javascript. There are a few links provided to learn more about the topics.
 - We encourage you to learn the topics from other sources if you find any interesting.
-- Each week you are expected to complete an assignment. These assignments are listed below.
+- Each Lesson you are expected to complete an assignment. These assignments are listed below.
 - Do the assignments all by yourself. Help yourself by following this one rule.
 - You are not alone in the journey. Join us via the [Discord Channel](https://discord.gg/vWRKPBDs). If you need any help, ping us with your query, we will respond ASAP.
 
@@ -21,6 +20,7 @@
 - Apply "Advanced Level" training
 
 > What happens after you submit?
+
 - We will receive your information and your assignments links.
 - We will review your assignment (git/deployments). If you have completed all of the assignments, we will proceed further. If not, your application most likely stands not considered.
 - We will interview all the selected candidates (online/in-person) for advanced-level training.
@@ -28,13 +28,13 @@
 
 # Training Calendar
 
-1. [Week 1](#week-1)
-1. [Week 2](#week-2)
-1. [Week 3](#week-3)
-1. [Week 4](#week-4)
+1. [Lesson 1](#lesson-1)
+1. [Lesson 2](#lesson-2)
+1. [Lesson 3](#lesson-3)
+1. [Lesson 4](#lesson-4)
 1. [How to apply for Level - Advanced](#How-to-apply-for-Level-One)
 
-# Week 1
+# Lesson 1
 
 ### HTML Topics
 
@@ -99,7 +99,7 @@ Here is a link to lean all about CSS [https://developer.mozilla.org/en-US/docs/W
 
 [![Here is the video that covers the assignment](https://img.youtube.com/vi/bCy7qSU8WG0/0.jpg)](https://www.youtube.com/watch?v=bCy7qSU8WG0)
 
-# Week 2
+# Lesson 2
 
 ### JavaScript
 
@@ -131,13 +131,13 @@ Here is a link to lean all about CSS [https://developer.mozilla.org/en-US/docs/W
 [![Fundamentals of JS](https://img.youtube.com/vi/DjHoTRUC3DE/0.jpg)](https://www.youtube.com/watch?v=DjHoTRUC3DE)
 [![Fundamentals of JS](https://img.youtube.com/vi/Tgy72di-6C8/0.jpg)](https://www.youtube.com/watch?v=Tgy72di-6C8)
 
-### Resources 
+### Resources
 
 - [Learn Javascript - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
 
 ### Assignment #2: Build a Simple Banking System with Vanilla JS
 
-1. In Week #1 assignment we create a repo, in the root of the same repo create another folder called `Week-2-assignment`
+1. In Lesson #1 assignment we create a repo, in the root of the same repo create another folder called `Lesson-2-assignment`
 1. Build a Simple Banking System with Vanilla JS in the folder
 1. Link update you portfolio page with a link to that subfolder you created
 1. Push the changes to the remote repo
@@ -145,11 +145,11 @@ Here is a link to lean all about CSS [https://developer.mozilla.org/en-US/docs/W
 
 {A demo video of the assignment will be placed here}
 
-# Week 3
+# Lesson 3
 
 ### Build a Simple Calculator app with Vanilla JS
 
-1. In Week #1 assignment, we create a repo, in the root of the same repo create another folder called `Week-4-assignment`
+1. In Lesson #1 assignment, we create a repo, in the root of the same repo create another folder called `Lesson-4-assignment`
 1. Build a Simple Calculator app with Vanilla JS in the folder
    - An App that will consist of two text fields to take inputs from the user
    - Four button that will perform the specific calculation
@@ -160,18 +160,18 @@ Here is a link to lean all about CSS [https://developer.mozilla.org/en-US/docs/W
 
 {A demo video of the assignment will be placed here}
 
-# Week 4
+# Lesson 4
 
 ### Build Rock, Paper and Scissor game with Vanilla JS
 
-1. In Week #1 assignment, we create a repo, in the root of the same repo create another folder called `Week-5-assignment`.
+1. In Lesson #1 assignment, we create a repo, in the root of the same repo create another folder called `Lesson-5-assignment`.
 1. Build Rock, Paper, and Scissor game with Vanilla JS in the folder
 1. Link update your portfolio page with a link to that subfolder you created
 1. Push the changes to the remote repo
 1. Verify if the remote app is updated with new links
    {A demo video of the assignment will be placed here}
 
-## Week 5
+## Lesson 5
 
 ### Build Your first CLI-App
 
